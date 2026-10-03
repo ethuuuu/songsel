@@ -1,0 +1,16 @@
+.DS_Store
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local audio and generated separation output
+dragsongshere/
+separated_tmp/
+*.mp3
+*.wav
+
+# Generated or user-specific app data
+vocal_db.csv
+user_profile.json
+recommendations.csv
